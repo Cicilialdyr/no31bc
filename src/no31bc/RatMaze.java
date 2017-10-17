@@ -13,7 +13,7 @@ package no31bc;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.Random;
+import java.util.Random; 
 
 public class RatMaze {
 private int dimensionX, dimensionY; // dimension of maze
